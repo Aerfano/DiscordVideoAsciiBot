@@ -1,1 +1,1 @@
-token = 'Paste your discord bot token here'
+token = 'MTMyODUzMTE3NzM2Mjk0ODIxNg.GXKwXm.UBX1FK8dUmwUPyARK6aJg1_P5wB8sUrL_RKNAA'
